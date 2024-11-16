@@ -15,6 +15,7 @@ This project focuses on creating an **interactive Power BI Sales Dashboard** usi
 - Provided actionable insights on **customer behavior** and **business performance metrics**.
 
 ## Tools and Technologies
+- **Microsoft Excel**: For managing the raw data and for removing inconsistencies from the raw data.
 - **Power BI**: For building the dashboard and creating visualizations.  
 - **Power Query**: For data cleaning and transformation during the ETL process.  
 - **DAX**: For custom calculations and measures to support advanced analytics.  
